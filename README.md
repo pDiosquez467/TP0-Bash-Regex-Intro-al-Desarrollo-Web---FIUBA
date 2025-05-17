@@ -240,7 +240,3 @@ Se require lo siguiente en la implementación de todos los ejercicios del trabaj
 - 02/04/2025:
   - Se agregan ejemplos de uso en el ejercicio 1.
 
-
-export const UnderlinedText = ({children}) => (
-  <span style={{ textDecoration: 'underline' }}>{children}</span>
-);
